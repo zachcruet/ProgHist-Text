@@ -1,0 +1,130 @@
+    1  pwd
+    2  ls
+    3  cd Desktop
+    4  cd Documents
+    5  ls
+    6  pwd
+    7  cd Downloads
+    8  cd Onedrive
+    9  cd
+   10  ls
+   11  cd OneDrive
+   12  ls
+   13  cd OneDrive/football/
+   14  cd Desktop
+   15  ls
+   16  cd Desktop/football/
+   17  football
+   18  ls
+   19  cd Desktop/football
+   20  ls
+   21  football/
+   22  touch iamcool.txt
+   23  cp iamcool.txt neat.txt
+   24  ls
+   25  history
+   26  exit
+   27  gwp
+   28  git
+   29  cd
+   30  cd Onedrive
+   31  ls
+   32  cd Desktop
+   33  ls
+   34  football/
+   35  git init
+   36  git status
+   37  cd Desktop/fooball/
+   38  git status
+   39  cd Desktop/football/
+   40  git status
+   41  cd football
+   42  git status
+   43  git init
+   44  git status
+   45  git add .
+   46  git commit
+   47  git commit -m 'first commit'
+   48  git config --global user.email "zachcruet@gmail.com"
+   49  git config --global user.name "Zach Cruet"
+   50  git commit -m 'first commit'
+   51  git remote add orgin https://github.com/zachcruet/football.git
+   52  git branch -M main
+   53  git push -u origin main
+   54  git push -u main
+   55  git push -u master
+   56  git push origin main
+   57  git status
+   58  git remote -v
+   59  git push orgin main
+   60  exit
+   61  pwd
+   62  ls
+   63  cd OneDrive
+   64  ls
+   65  cd Desktop
+   66  ls
+   67  cd --
+   68  open .
+   69  mkdir ProgHist-Text
+   70  cd OneDrive
+   71  cd Desktop
+   72  mkdir ProgHist-Text
+   73  cd ProhHist-Text
+   74   wget http://www.gutenberg.org/files/2600/2600-0.txt
+   75  ls -1h
+   76  ProgHist-Text
+   77  cd ProgHist-Text
+   78  1s -1h
+   79  1s -1h
+   80  1s -1h
+   81  1s -1h
+   82  ls -lh
+   83  explorer 2600-0.txt
+   84  cat 2600-0.txt
+   85  1s -1h
+   86  cd ProgHist-Text directory_files
+   87  cd --
+   88  cd OneDrive
+   89  cd Desktop
+   90  cd ProgHist-Text directory_files
+   91  cd ProgHist-Text
+   92  1s -1h
+   93  ls -lh
+   94  cd ProgHist-Text directory_files
+   95  cd --
+   96  cd OneDrive
+   97  cd Desktop
+   98  cd ProgHist-Text directory_files
+   99  cd ProgHist-Text
+  100  ls -lh
+  101  open 2600-0.txt
+  102  cd --
+  103  cd Desktop
+  104  cd OneDrive
+  105  cd Desktop
+  106  mkdir ProgHist-Text
+  107  cd ProgHist-Text
+  108  wget http://www.gutenberg.org/files/2600/2600-0.txt
+  109  wget http://www.gutenberg.org/files/2600/2600-0.txt
+  110  ls -lh
+  111  ls -lh
+  112  open 2600-0.txt
+  113  open 2600-0.txt
+  114  explorer 2600-0.txt
+  115  cat 2600-0.txt
+  116  ls
+  117  cat 2600-0.txt
+  118  explorer 2600-0.txt
+  119  open _2600_2600-0.txt
+  120  open _2600_2600-0.tx
+  121  open 2600_2600-0.txt
+  122  head 2600-0.txt
+  123  mv 2600-0.txt tolstoy.txt
+  124  mv -rw-r--r-- 1 zachc 197609 3.3M Oct  2 15:10 gutenberg.org_files_2600_2600-0.txt
+  125  cd..
+  126  cd ..
+  127  mkdir proghist-dest
+  128  history
+  129  cd Proghist-Text
+  130  history > history.txt
